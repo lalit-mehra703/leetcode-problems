@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
