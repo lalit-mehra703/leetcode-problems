@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0048-rotate-image) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
