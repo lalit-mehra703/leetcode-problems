@@ -53,4 +53,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0125-valid-palindrome) |
+| [1657-determine-if-two-strings-are-close](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/1657-determine-if-two-strings-are-close) |
+## Hash Table
+|  |
+| ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/1657-determine-if-two-strings-are-close) |
+## Sorting
+|  |
+| ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/1657-determine-if-two-strings-are-close) |
+## Counting
+|  |
+| ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/1657-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
