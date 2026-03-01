@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1572-matrix-diagonal-sum](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2527-find-xor-beauty-of-array](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/2527-find-xor-beauty-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0048-rotate-image) |
+| [2527-find-xor-beauty-of-array](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/2527-find-xor-beauty-of-array) |
 ## String
 |  |
 | ------- |
@@ -77,4 +79,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0136-single-number) |
+| [2527-find-xor-beauty-of-array](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/2527-find-xor-beauty-of-array) |
 <!---LeetCode Topics End-->
