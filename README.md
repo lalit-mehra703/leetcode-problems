@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0169-majority-element) |
 | [1572-matrix-diagonal-sum](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0152-maximum-product-subarray](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
 | ------- |
