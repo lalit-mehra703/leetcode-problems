@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [2527-find-xor-beauty-of-array](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/2527-find-xor-beauty-of-array) |
 ## String
 |  |
@@ -102,4 +104,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
