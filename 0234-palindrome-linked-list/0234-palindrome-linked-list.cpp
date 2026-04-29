@@ -14,7 +14,7 @@ public:
         stack<int> s;
         ListNode* temp = head;
         s.push(temp->val);
-        while ( temp != NULL && temp->next != NULL){
+        while (temp->next != NULL){
             temp = temp->next;
             s.push(temp->val);
         }
