@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0169-majority-element) |
 | [1572-matrix-diagonal-sum](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2527-find-xor-beauty-of-array](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/2527-find-xor-beauty-of-array) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 ## Math
 |  |
 | ------- |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
