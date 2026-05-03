@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0054-spiral-matrix) |
+| [0134-gas-station](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
