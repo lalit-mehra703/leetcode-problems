@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0125-valid-palindrome) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/1657-determine-if-two-strings-are-close) |
 ## Hash Table
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0169-majority-element) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/1657-determine-if-two-strings-are-close) |
 ## Bit Manipulation
 |  |
@@ -125,4 +127,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0134-gas-station) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
