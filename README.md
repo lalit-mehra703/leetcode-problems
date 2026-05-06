@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [2527-find-xor-beauty-of-array](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/2527-find-xor-beauty-of-array) |
 ## String
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/1657-determine-if-two-strings-are-close) |
+| [1903-largest-odd-number-in-string](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,4 +130,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0134-gas-station) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
