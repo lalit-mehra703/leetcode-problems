@@ -131,4 +131,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0134-gas-station) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
+## Tree
+|  |
+| ------- |
+| [0965-univalued-binary-tree](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0965-univalued-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0965-univalued-binary-tree](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0965-univalued-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0965-univalued-binary-tree](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0965-univalued-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0965-univalued-binary-tree](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0965-univalued-binary-tree) |
 <!---LeetCode Topics End-->
