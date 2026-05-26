@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0169-majority-element) |
+| [1046-last-stone-weight](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/1046-last-stone-weight) |
 | [1572-matrix-diagonal-sum](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/0965-univalued-binary-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/lalit-mehra703/LeetCode-Problems/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
